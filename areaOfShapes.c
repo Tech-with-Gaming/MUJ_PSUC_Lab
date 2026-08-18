@@ -6,7 +6,7 @@ int main() {
     char choice = '\0';
     const double pi = 3.141592653589;
 
-    printf("ENter your choice [c/r/t]: ");
+    printf("Enter your choice [c/r/t]: ");
     scanf("%c", choice);
 
     switch (choice) {
